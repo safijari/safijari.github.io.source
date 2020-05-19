@@ -2,7 +2,7 @@
 #+subtitle: emacs everywhere
 #+date: 2019-07-26
 #+tags[]: howto, emacs, hugo
-#+draft: true
+#+draft: false
 * In the beginning, there was this post
   #+begin_src python
     import thing
