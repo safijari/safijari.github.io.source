@@ -1,0 +1,11 @@
+#+title: Using Org Mode in Hugo
+#+subtitle: emacs everywhere
+#+date: 2019-07-26
+#+tags[]: howto, emacs, hugo
+#+draft: true
+* In the beginning, there was this post
+  #+begin_src python
+    import thing
+    for i in range(10):
+        print(ohai)
+  #+end_src
