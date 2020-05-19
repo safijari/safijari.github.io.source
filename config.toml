@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "terminal"
+theme = "terminal_custom"
 paginate = 5
 
 [params]
