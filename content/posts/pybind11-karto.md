@@ -256,7 +256,7 @@ The original `open_karto` repo has a sample program that creates two circular la
 them, below I show `python` code doing the same thing. Note that the `process_scan` method expects a `vector<float>`
 on the `C++` side but I can pass a normal `python` list. All the conversions are taken care of.
 
-![example](/static/images/pyOpenkarto_example.png)
+![example](images/pyOpenkarto_example.png)
 
 All in all this was a great success for me. Not only does it allow me to easily integrate karto with my python codebase, 
 it also allows me to finetune the parameters and experiment in a notebook, which is a huge boon to productivity.
