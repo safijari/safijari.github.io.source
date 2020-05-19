@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "terminal_custom"
 paginate = 5
+staticDir = ["static"]
 
 [params]
   # dir name of your blog content (default is `content/posts`)
