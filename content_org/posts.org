@@ -8,6 +8,10 @@
   :EXPORT_FILE_NAME: ../todos
   :END:
   - [ ] Write =About= section
+  - [ ] Write my resume
+  - [ ] Make a tutorial video for using Numba [[https://numba.pydata.org/numba-doc/latest/user/jitclass.html][jitclasses]]
+  - [ ] Make a tutorial video for using Cuda with Numba
+  - [ ] Make a tutorial video for Pydantic
     
 ** About Me
   :PROPERTIES:
