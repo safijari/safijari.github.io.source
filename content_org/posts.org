@@ -18,7 +18,7 @@
   :EXPORT_HUGO_SECTION: ./
   :EXPORT_FILE_NAME: ../about
   :END:
-  Stub
+  I'm currently 
 
 ** TODO Write CUDA Kernels in Python using Numba          :cuda:python:numba:
   :PROPERTIES:
@@ -30,11 +30,23 @@
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: ./blog/videos
   :END:
-** TODO Org mode in Spacemacs                         :youtube:org:spacemacs:
+** DONE Org-Mode in Spacemacs                         :youtube:org:spacemacs:
+   CLOSED: [2019-05-03]
   :PROPERTIES:
   :EXPORT_FILE_NAME: org-spacemacs
   :END:
-  Hai
+  
+  My second ever (and apparently most popular) video was about how to use Org-Mode in
+  Spacemacs. There's many really good tutorials for Org-Mode but none really focus
+  on Spacemacs specifically. I cover:
+  - Basic markup syntax
+  - Various shortcuts
+  - Task tracking, agenda
+  - Various shortcuts
+    
+  Check it out :smile:
+  
+  {{< youtube S4f-GUxu3CY>}}
 
 * COMMENT Local Variables                                           :ARCHIVE:
  # Local Variables:

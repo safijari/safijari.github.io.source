@@ -3,4 +3,4 @@ title = "About Me"
 draft = false
 +++
 
-Stub
+I'm currently
