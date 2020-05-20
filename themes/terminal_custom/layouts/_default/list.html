@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="posts">
   {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
-  {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
+  {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "videos" }}
 
   {{ $PageContext := . }}
   {{ if .IsHome }}

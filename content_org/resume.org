@@ -1,0 +1,15 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./
+#+OPTIONS: author:nil
+
+* RESUME
+** TODO Resume                                        :jari:resume:
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: resume
+  :END:
+  Hai
+
+* COMMENT Local Variables                                           :ARCHIVE:
+ # Local Variables:
+ # org-hugo-auto-export-on-save: t
+ # End:

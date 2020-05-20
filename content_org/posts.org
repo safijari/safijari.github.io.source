@@ -1,0 +1,38 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./blog/posts
+#+OPTIONS: author:nil
+* Blag
+** TODOs
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: ./
+  :EXPORT_FILE_NAME: ../todos
+  :END:
+  - [ ] Write =About= section
+    
+** About Me
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: ./
+  :EXPORT_FILE_NAME: ../about
+  :END:
+  Stub
+
+** TODO Write CUDA Kernels in Python using Numba          :cuda:python:numba:
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: 2020-05-20-cuda-python-numba
+  :END:
+  Hai
+
+* Videos
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: ./blog/videos
+  :END:
+** TODO Org mode in Spacemacs                         :youtube:org:spacemacs:
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: org-spacemacs
+  :END:
+  Hai
+
+* COMMENT Local Variables                                           :ARCHIVE:
+ # Local Variables:
+ # org-hugo-auto-export-on-save: t
+ # End:

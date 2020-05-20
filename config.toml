@@ -6,13 +6,13 @@ staticDir = ["static"]
 
 [params]
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  contentTypeName = "blog"
 
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 10
 
   # show selector to switch language
   showLanguageSelector = false
@@ -61,8 +61,12 @@ staticDir = ["static"]
       [[languages.en.menu.main]]
         identifier = "posts"
         name = "Posts"
-        url = "/posts"
+        url = "/blog"
       [[languages.en.menu.main]]
         identifier = "videos"
         name = "Videos"
-        url = "/videos"
+        url = "/tags/youtube"
+      [[languages.en.menu.main]]
+        identifier = "resume"
+        name = "Resume"
+        url = "resume"
