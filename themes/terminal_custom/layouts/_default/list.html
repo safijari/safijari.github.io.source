@@ -36,16 +36,17 @@
     {{ end }}
 
     <div class="post-content">
-      {{ if .Params.showFullContent }}
-      {{ .Content | markdownify }}
-      {{ else if .Description }}
-      {{ .Description | markdownify }}
-      {{ else }}
-      {{ if .Truncated }}
-      {{ .Summary | markdownify }}
-      {{ end }}
-      {{ end }}
+        {{ if .Params.showFullContent }}
+        {{ .Content | markdownify }}
+        {{ else if .Description }}
+        {{ .Description | markdownify }}
+        {{ else }}
+        {{ if .Truncated }}
+        {{ .Summary }}
+        {{ end }}
+        {{ end }}
     </div>
+
 
     {{ if not .Params.showFullContent }}
     <div>

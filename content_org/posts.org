@@ -12,6 +12,7 @@
   - [ ] Make a tutorial video for using Numba [[https://numba.pydata.org/numba-doc/latest/user/jitclass.html][jitclasses]]
   - [ ] Make a tutorial video for using Cuda with Numba
   - [ ] Make a tutorial video for Pydantic
+  - [ ] Split blog and videos using https://github.com/panr/hugo-theme-terminal/issues/97
   - [-] Fill out entries for old notable videos:
     - [-] Spacemacs videos
       - [X] Org mode
@@ -36,6 +37,7 @@
   I'm currently 
 
 ** TODO Write CUDA Kernels in Python using Numba          :cuda:python:numba:
+   CLOSED: [2020-05-20]
   :PROPERTIES:
   :EXPORT_FILE_NAME: 2020-05-20-cuda-python-numba
   :END:
@@ -51,6 +53,10 @@
   :EXPORT_FILE_NAME: org-spacemacs
   :END:
   
+  {{< youtube S4f-GUxu3CY>}}
+  
+  #+hugo: more
+  
   My second ever (and apparently most popular) video was about how to use Org-Mode in
   Spacemacs. There's many really good tutorials for Org-Mode but none really focus
   on Spacemacs specifically. I cover:
@@ -60,8 +66,6 @@
   - Various shortcuts
     
   Check it out :smile:
-  
-  {{< youtube S4f-GUxu3CY>}}
 
 * COMMENT Local Variables                                           :ARCHIVE:
  # Local Variables:
