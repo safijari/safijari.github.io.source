@@ -31,6 +31,22 @@ enableEmoji = true
   # it's set to `true` by default
   # oneHeadingSize = false
 
+ # [[params.social]]
+ #    icon = "linkedin"
+ #    icon_pack = "fa"
+ #    link = "//linkedin.com/in/USERNAME"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/safijari"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/safijari"
+
+
 [params.twitter]
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
