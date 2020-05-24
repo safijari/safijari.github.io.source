@@ -35,7 +35,11 @@
   :EXPORT_HUGO_SECTION: ./
   :EXPORT_FILE_NAME: ../about
   :END:
-  I'm currently 
+  I'm currently an engineer a company called Simbe Robotics 
+  where I've played a leading role in computer vision and machine learning initiatives.
+  Specifically I've spent a lot of time building object detection and OCR systems on home grown and curated datasets.
+  I've also played an instrumental role in putting the computer vision models and pipeline in production
+  and scaling it to match the needs of our growing customer base.
 
 ** TODO Write CUDA Kernels in Python using Numba          :cuda:python:numba:
    CLOSED: [2020-05-20]
