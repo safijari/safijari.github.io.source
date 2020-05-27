@@ -9,8 +9,9 @@ So I woke up this morning to my google feed recommending the article [Is NumPy F
 and the first thought through my head was "uhhh ... why is that even a question?". I later realized that
 this was a follow up to the author's previous article called ["Should You Jump Python's Ship and Move to Julia?"](https://towardsdatascience.com/should-you-jump-pythons-ship-and-move-to-julia-ccd32e7d25d9).
 
-Upon more investigation it was clear that the author (whose name is Emmett) is a `Julia` evangelist with seemingly very little experience
-in `Python`. Now this is ... fine. I have a great deal of respect for `Julia` and the community around it and the
+Upon more investigation it was clear that the author (whose name is Emmett) is a `Julia` evangelist and he
+seems very competent in `Julia` but based on the articles maybe relatively new to `python`.
+Now this is ... fine. I have a great deal of respect for `Julia` and the community around it and the
 language has come a long way from when I first used it in grad school (as I noticed during my lengthy exploration
 of the language in a past video).
 
