@@ -64,7 +64,7 @@
   
  {{< youtube TNoShNPoEak>}}
   
- In face in the above video I did a comparison of how well a naive =Julia= implementation stacks up against a 
+ In fact in the above video I did a comparison of how well a naive =Julia= implementation stacks up against a 
  naive Numba implementation of the same simulation (they were about the same). I was then [[https://discourse.julialang.org/t/how-to-optimize-the-following-code/33209][schooled by]] some 
  folks much more knowledgable about =Julia= than I was after my 4 hours session with it and they demonstrated
  that with a bit of care =Julia= could become sufficiently faster than Numba. The fact that such a simple looking
