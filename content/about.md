@@ -29,3 +29,5 @@ My history has been a bit meandering. At a young age I was very interested in ch
 -   Got internship at Simbe while fed up of PhD
 -   Work at Simbe starting in robot perception (sensor filtering, object detection)
 -   Perception -> hardware integration and testing -> classical computer vision -> deep learning
+
+And that's more or less where I am (+ I have a [youtube channel](https://youtube.com/c/jack%5Fof%5Fsome) now about text editors, programming, and machine learning.
