@@ -61,7 +61,7 @@
   - Work at Simbe starting in robot perception (sensor filtering, object detection)
   - Perception -> hardware integration and testing -> classical computer vision -> deep learning
 
-  And that's more or less where I am (+ I have a [[https://youtube.com/c/jack_of_some][youtube channel]] now about text editors, programming, and machine learning.
+  And that's more or less where I am (+ I have a [[https://youtube.com/c/jack_of_some][youtube channel]] now about text editors, programming, and machine learning).
 
 ** TODO Write CUDA Kernels in Python using Numba          :cuda:python:numba:
    CLOSED: [2020-05-20]
